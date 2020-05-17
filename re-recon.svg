@@ -5,11 +5,35 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="SVGRoot"
    version="1.1"
    viewBox="0 0 24 24"
    height="24px"
-   width="24px">
+   width="24px"
+   sodipodi:docname="re-recon.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview2742"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1413" />
   <metadata
@@ -27,11 +51,14 @@
   <g
      id="layer1">
     <path
-       style="stroke-width:1.00266755"
-       d="M 21.55075,15.020833 H 7.3228094 V 13.325 H 21.55075 v 1.695833 m 0,5.0875 H 7.3228094 V 18.4125 H 21.55075 v 1.695833 M 1.3945001,10.78125 h 2.371324 v 9.327083 H 1.3945001 V 10.78125 m 2.371324,11.022917 V 23.5 h -2.371324 v -1.695833 z"
-       id="path2042" />
+       style="stroke-width:0.67408085"
+       d="M 18.906682,14.139477 H 8.9858202 v -1.099223 h 9.9208618 v 1.099223 m 0,3.297669 H 8.9858202 v -1.099223 h 9.9208618 v 1.099223 M 4.8521272,11.391419 h 1.6534774 v 6.045727 H 4.8521272 v -6.045727 m 1.6534774,7.144951 v 1.099223 H 4.8521272 V 18.53637 Z"
+       id="path2042"
+       inkscape:connector-curvature="0" />
     <path
-       d="m 17.857,4.0442497 c -1.85,-1.6 -4.25,-2.6 -6.9,-2.6 -4.65,0 -8.58,3.03 -9.96000004,7.22 L 3.357,9.4442501 c 1.05,-3.1900004 4.05,-5.5000004 7.6,-5.5000004 1.95,0 3.73,0.72 5.12,1.88 l -3.62,3.6200004 h 9 V 0.44424966 Z"
-       id="path2026" />
+       d="M 16.469991,6.3981978 C 15.107342,5.1597797 13.33958,4.3857684 11.387677,4.3857684 c -3.4250391,0 -6.3197492,2.3452542 -7.3362123,5.5883621 L 5.7897639,10.57786 C 6.5631597,8.1087628 8.772862,6.3207966 11.387677,6.3207966 c 1.436306,0 2.747396,0.5572882 3.771224,1.4551413 L 12.492528,10.57786 h 6.629107 V 3.6117571 Z"
+       id="path2026"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.75505728" />
   </g>
 </svg>
